@@ -1,3 +1,10 @@
+Fork of [gi-gtk-declarative](https://github.com/owickstrom/gi-gtk-declarative) that strives to implement GTK4 support.
+
+Status: Nothing is done yet.
+
+Original README:
+
+
 <div align="center">
   <h1>gi-gtk-declarative</h1>
   <p>Declarative GTK+ programming in Haskell</p>
